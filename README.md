@@ -9,7 +9,6 @@ Live Website:https://thriving-twilight-bd5c63.netlify.app/
 2. Clone the forked repository and proceed with steps mentioned below.
    
 ### Go to the project directory
-* cd Fyle Intenship
 * cd fyleintern
   
 ### Install requirements
